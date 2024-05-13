@@ -1,2 +1,3 @@
 apiPassword
-helm-chart/charts
+charts/supertokens/charts
+.idea
